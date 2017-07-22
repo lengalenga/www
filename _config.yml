@@ -25,7 +25,6 @@ author:
 #
 # same as Gemfile.
 gems:
-  - jekyll-gist
   - jekyll-paginate
   - jekyll-archives
   - jekyll-sitemap
