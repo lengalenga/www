@@ -20,3 +20,14 @@ author:
   name:              Bruno Sousa
   url:               https://twitter.com/brcsousa
   email:             brcsousa@gmail.com
+  
+# Gems
+#
+# same as Gemfile.
+gems:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-archives
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
