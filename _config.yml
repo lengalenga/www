@@ -22,11 +22,5 @@ author:
   email:             brcsousa@gmail.com
   
 # Gems
-#
-# same as Gemfile.
 gems:
-  - jekyll-paginate
-  - jekyll-archives
   - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-feed
