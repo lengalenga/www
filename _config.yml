@@ -20,8 +20,3 @@ author:
   name:              Bruno Sousa
   url:               https://twitter.com/brcsousa
   email:             brcsousa@gmail.com
-
-# Gems
-gems:
-  - jekyll-paginate
-  - jekyll-gist
