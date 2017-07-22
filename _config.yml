@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               LengaLenga
+tagline:             Teste ao Jekyll
+url:                 http://lengalen.ga
 paginate:            1
 baseurl:             ""
 
@@ -17,14 +17,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
-
-# Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/poole/poole
+  name:              Bruno Sousa
+  url:               https://twitter.com/brcsousa
+  email:             brcsousa@gmail.com
 
 # Gems
 gems:
