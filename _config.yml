@@ -1,0 +1,24 @@
+---
+title: LengaLenga
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+permalink: pretty
+tagline: Teste ao Jekyll
+url: http://lengalen.ga
+paginate: 1
+baseurl: 
+sass:
+  sass_dir: _sass
+  style: compressed
+author:
+  name: Bruno Sousa
+  url: https://twitter.com/brcsousa
+  email: brcsousa@gmail.com
+gems:
+- jekyll-sitemap
