@@ -12,10 +12,10 @@ permalink: pretty
 tagline: Teste ao Jekyll
 url: http://lengalen.ga
 paginate: 1
-baseurl: ''
+baseurl: 
 sass:
   sass_dir: _sass
-  style: :compressed
+  style: compressed
 author:
   name: Bruno Sousa
   url: https://twitter.com/brcsousa
